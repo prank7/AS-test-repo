@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest block02/index.test.js"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
